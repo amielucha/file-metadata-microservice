@@ -1,0 +1,23 @@
+{
+  "name": "file-meta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amielucha/file-metadata-microservice.git"
+  },
+  "author": "amielucha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amielucha/file-metadata-microservice/issues"
+  },
+  "homepage": "https://github.com/amielucha/file-metadata-microservice#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.2.10"
+  }
+}
